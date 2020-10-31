@@ -173,7 +173,7 @@ int count_reverse(int x, int y, int dx, int dy) {
 			return count;
 		}
 	}
-	return 0; //시발......이거때문이었음
+	return 0; 
 }
 
 struct change {
